@@ -4,6 +4,6 @@ class ab
     #random
     public static void main()
     {
-      System.out.println("Output");
+      System.out.println("Output 2");
     }
 }
